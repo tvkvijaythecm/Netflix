@@ -21,3 +21,8 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+git add .nvmrc
+git commit -m "Add Node version for Netlify"
+git push
